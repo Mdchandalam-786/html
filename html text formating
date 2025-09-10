@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+    </style>
+    <title>html text formating</title>
+</head>
+
+<body>
+    <!-- bold text -->
+    <!-- <p><b>this is text</b></p>
+    <p><strong>this is text</strong></p> -->
+
+
+    <!-- italic text -->
+    <!-- <p><i>this is text</i></p>
+    <p><em>this is text</em></p> -->
+
+
+    <!-- mark text -->
+    <!-- <p><mark>this is text</mark></p> -->
+    <!-- underline text -->
+    <!-- <p><u>this is text</u></p> -->
+
+    <!-- sub and super script -->
+    <!-- <p>h<sub>2</sub>O</p>
+    <p>12<sub>th</sub></p> -->
+    <!-- <p>E = mc<sup>2</sup></p>
+    <p>10<sup>th</sup></p> -->
+
+    <!-- strike through text -->
+    <!-- <p><s>this is text</s></p>
+    <p><del>this is text</del></p> -->
+</body>
+
+</html>
