@@ -1,0 +1,34 @@
+Trim burners lee 1991 officially launch in 1993
+HTML (Hypertext Markup Language) is the standard markup language used to create and design WebPages. It provides the basic structure of a webpage, which is then enhanced and styled using CSS (Cascading Style Sheets) and made interactive with JavaScript.
+
+HTML consists of a series of elements or tags that tell the web browser how to display content.
+ headings, paragraphs, links, images, lists, tables, and more.
+
+Tags:- Each element is enclosed within angle brackets, 
+for example:- <p> for a paragraph or <a> for a hyperlink.
+# HTML Basic Syntax
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+Write a content
+</body>
+</html>
+
+#html  basic tag explain
+<!DOCTYPE html>
+This declaration defines the document type and version of HTML. It tells the browser that the document is an HTML5 document.
+<html>
+This tag is a guardian tag of an html page.
+
+<head>
+The head section contains meta-information about the document, such as its title, character set, styles, scripts, and other metadata. This information is not displayed directly on the webpage.
+<title>
+This tag specific name of the website 
+For example-: you tube, goggle.
+1.	<body>
+The body tag contains the actual content of the webpage that is visible to users, such as text, images, links, etc.
+ 
+
