@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+<!-- ordered list -->
+<!-- unordered list -->
+
+<!-- types of ordered list -->
+<!-- i,I,A,a,1 -->
+
+<!-- types of unordered list -->
+<!-- circle,square,disc -->
+
+<!-- ul tag :- this tag used for create unordered list.
+ul type attribute value:- disc by default (black circle)
+type attribute :- it define a which type of marked used in list.
+ol tag :- this used for create ordered list.
+li tag :- it is define a list iteam. -->
+</body>
+</html>
