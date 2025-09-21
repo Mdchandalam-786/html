@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+    </style>
+    <title>font color and attribute</title>
+</head>
+<body>
+<p><font color="red" face="arital" size="30px">hi I am web developer</font></p>
+
+<!-- color face and size is a attribute -->
+
+<!-- what is attribute -->
+<!-- attribute provide extra additional information about tag -->
+
+<!-- note :- are always specifide in the start tag/open tag. -->
+
+<!-- html font tag -->
+<!-- font tag:- it define a font color, size and face in text.
+note :- font tag appears color, size, face attribute. -->
+</body>
+</html>
