@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<form>
+<input type="text">
+<input type="text" name="">
+<input type="submit" name="">
+<input type="text" Disabled>
+<input type="range" Max="2">
+<input type="range" step="10">
+<input type="button" value="submit">
+ <textarea  rows="10" cols="30" required></textarea>
+<br>
+<br>
+<!-- fieldset -->
+ <form> 
+<fieldset> 
+<legend>Personalia:</legend> 
+<input type="text"  placeholder="fname" > 
+<input type="text"  placeholder="lname" >  
+<input type="submit" value="Submit"> 
+</fieldset> 
+</body>
+</html>
+</form>
+<br>
